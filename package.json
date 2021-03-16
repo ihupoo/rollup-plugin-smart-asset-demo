@@ -1,0 +1,12 @@
+{
+  "name": "rollup-plugin-smart-asset",
+  "version": "2.1.0",
+  "description": "Rollup plugin to rebase, inline or copy assets referenced from the code",
+  "scripts": {
+    "build": "rollup -c "
+  },
+  "devDependencies": {
+    "rollup": "^2.38.0",
+    "rollup-plugin-smart-asset": "^2.1.1"
+  }
+}
